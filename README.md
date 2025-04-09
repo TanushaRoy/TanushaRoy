@@ -4,7 +4,6 @@ I am a passionate **DevOps Engineer** with hands-on experience in **Linux system
 
 Currently, I am focused on improving my skills in **cloud technologies** and **continuous integration**.
 
-Feel free to explore my projects and contributions on GitHub!
 
 [Email](mailto:roytanusha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanusha-roy) | [GitHub](https://github.com/tanusha)
 
